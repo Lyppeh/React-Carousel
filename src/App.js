@@ -8,7 +8,7 @@ function App() {
   const carousel = useRef(null)
 
   useEffect(() => {
-    fetch('https://lucid-kirch-8a3df9.netlify.app/static/shoes.json')
+    fetch('https://first-carousel-with-react.netlify.app/static/shoes.json')
       .then((response) => response.json())
       .then(setData);
   }, [])

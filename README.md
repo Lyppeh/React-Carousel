@@ -1,13 +1,13 @@
 <h1 align="center">
     <img src="./public/favicon.ico"  >
-    
+    React Carousel
 </h1>
 
 <h1> 
-    <img src="">
+    <img src="./github/application-gif.gif">
 </h1>
 <h3 align="center">
-    <a href="">Acesar a demonstração</a>
+    <a href="https://first-carousel-with-react.netlify.app/">Acesar a demonstração</a>
 </h3>
 
 ## 📖 Sobre
