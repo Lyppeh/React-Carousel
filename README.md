@@ -12,23 +12,36 @@
 
 ## 📖 Sobre
 
+React Carousel é um projeto simples desenvolvido com React, com o intuito de colocar em pratica alguns aprendizados de css e javascript.
+
 ## 🛠️ Tecnologias utilizadas
 
 - HTML5
 - CSS3
-- React
 - JavaScript
+- React
+- React Hooks
 - JSX
 - Visual Studio Code
+- Yarn
 
 ## 💾 Como baixar o projeto
 
 ```bash
 # clonar com https
-$ git clone https://github.com/Lyppeh/StatsPreviewCard.git
+$ git clone https://github.com/Lyppeh/React-Carousel.git
 
 #clonar com ssh
-$ git clone git@github.com:Lyppeh/StatsPreviewCard.git
+$ git@github.com:Lyppeh/React-Carousel.git
+
+#Entrar no diretório
+$ cd react-carousel
+
+# Instalar as dependências
+$ yarn install
+
+# Iniciar o projeto
+$ yarn start
 ```
 
 ### 💻 desenvolvido por:
